@@ -1,0 +1,8 @@
+baseball/
+soccer/
+basketball/
+american_football/
+.env
+*.ndjson
+.ipynb_checkpoints/
+dataset-analysis.ipynb
