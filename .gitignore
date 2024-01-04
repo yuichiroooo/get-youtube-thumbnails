@@ -5,4 +5,4 @@ american_football/
 .env
 *.ndjson
 .ipynb_checkpoints/
-dataset-analysis.ipynb
+ndjson-tidy.ipynb
